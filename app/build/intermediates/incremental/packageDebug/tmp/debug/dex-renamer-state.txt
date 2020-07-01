@@ -1,0 +1,4 @@
+#Thu Jul 02 07:24:15 CST 2020
+base.0=/home/stanley/projects/third-party/pjsip-demo/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
